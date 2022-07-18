@@ -16,9 +16,7 @@
       <AnchorPane layoutX="-8.0" layoutY="281.0" prefHeight="133.0" prefWidth="299.0" style="-fx-background-color: rgb(173,216,230);">
          <children>
             <Label layoutX="177.0" layoutY="20.0" prefHeight="18.0" prefWidth="143.0" text="DEP - 9 Text Editor">
-               <font>
-                  <Font name="Comfortaa Light" size="14.0" />
-               </font>
+
             </Label>
             <ImageView fitHeight="150.0" fitWidth="200.0" pickOnBounds="true" preserveRatio="true">
                <image>
@@ -31,9 +29,7 @@
                </font>
             </Label>
             <Label fx:id="lblStatus" layoutX="191.0" layoutY="45.0" prefHeight="18.0" prefWidth="143.0" text="Loading.......">
-               <font>
-                  <Font name="Comfortaa Light" size="14.0" />
-               </font>
+
             </Label>
          </children>
       </AnchorPane>
